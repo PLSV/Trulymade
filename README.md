@@ -1,0 +1,1 @@
+This is going to be a description for the Trulymade project. I will be adding logs on what the project is going to do soon.
